@@ -2,453 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5990f6f-329f-4eb3-8256-fba9fe2299d5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/AIStudy.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/1.MLFoundation/NumPy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/10.kmeans/kMeans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/10.kmeans/kMeansSklearn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/10.kmeans/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/11.Apriori/apriori.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/12.FrequentPattemTree/fpGrowth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/13.PCA/pca.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/14.SVD/svdRecommend.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/mrMean.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/mrMeanMapper.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/mrMeanReducer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/mrSVM.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/mrSVMkickStart.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/pegasos.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/proximalSVM.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/py27dbg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/15.BigData_MapReduce/wc.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/RS-itemcf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/RS-sklearn-rating.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/RS-usercf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/python/Recommender.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/sklearn-RS-demo-cf-item-test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/sklearn-RS-demo-item.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/sklearn-RS-demo-user.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/sklearn-RS-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/test_evaluation_model.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/test_graph-based.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/test_lfm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/test_基于物品.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/16.RecommenderSystems/test_基于用户.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/Problem2FunctionTest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/dataset.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/my_model.h5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/scaler.clf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/shampoo-sales.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/sp5001.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/test1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/testX.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/testY.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/trainX.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/17.LSTM/trainY.data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/2.KNN/kNN.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/2.KNN/sklearn-knn-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/3.DecisionTree/DTSklearn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/3.DecisionTree/DecisionTree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/3.DecisionTree/decisionTreePlot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/3.DecisionTree/skelearn_dts_regressor_demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/3.DecisionTree/sklearn_dts_classify_demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/4.NaiveBayes/bayes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/4.NaiveBayes/sklearn-nb-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/5.Logistic/logistic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/5.Logistic/sklearn_logisticRegression_demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/6.SVM/sklearn-svm-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/6.SVM/svm-complete.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/6.SVM/svm-complete_Non-Kernel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/6.SVM/svm-simple.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/7.AdaBoost/adaboost.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/7.AdaBoost/sklearn-adaboost-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/7.RandomForest/randomForest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/8.Regression/regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/8.Regression/sklearn-regression-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/9.RegTrees/RTSklearn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/9.RegTrees/regTrees.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/9.RegTrees/sklearn-regressTree-demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/demos/9.RegTrees/treeExplore.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/1.机器学习基础.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/10.k-means聚类.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/11.使用Apriori算法进行关联分析.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/12.使用FP-growth算法来高效发现频繁项集.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/13.利用PCA来简化数据.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/14.利用SVD简化数据.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/15.大数据与MapReduce.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/16.推荐系统.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/2.k-近邻算法.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/3.决策树.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/4.朴素贝叶斯.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/5.Logistic回归.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/6.1.支持向量机的几个通俗理解.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/6.支持向量机.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/7.集成方法-随机森林和AdaBoost.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/8.预测数值型数据：回归.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/9.树回归.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithm/docs/naive-bayes-discuss.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/imdb/imdb.h5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/imdb/imdbdemo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/mnistdemo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/mnist_cnn.h5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/demos/number/number_9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/addition_rnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/antirectifier.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/babi_memnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/babi_rnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/cifar10_cnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/cifar10_resnet.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/conv_filter_visualization.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/conv_lstm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/deep_dream.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/image_ocr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/imdb_bidirectional_lstm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/imdb_cnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/imdb_cnn_lstm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/imdb_fasttext.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/imdb_lstm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/lstm_seq2seq.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/lstm_stateful.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/lstm_text_generation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_acgan.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_cnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_dataset_api.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_hierarchical_rnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_irnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_mlp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_net2net.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_siamese.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_sklearn_wrapper.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_swwae.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_tfrecord.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/mnist_transfer_cnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/neural_doodle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/neural_style_transfer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/pretrained_word_embeddings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/reuters_mlp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/reuters_mlp_relu_vs_selu.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/variational_autoencoder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/keras/examples/variational_autoencoder_deconv.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/demos/knndemo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/.flake8" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_face_recognition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_model_complexity_influence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_out_of_core_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_outlier_detection_housing.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_prediction_latency.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_species_distribution_modeling.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_stock_market.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_tomography_l1_reconstruction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/plot_topics_extraction_with_nmf_lda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/svm_gui.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/applications/wikipedia_principal_eigenvector.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/bicluster/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/bicluster/plot_bicluster_newsgroups.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/bicluster/plot_spectral_biclustering.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/bicluster/plot_spectral_coclustering.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/calibration/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/calibration/plot_calibration.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/calibration/plot_calibration_curve.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/calibration/plot_calibration_multiclass.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/calibration/plot_compare_calibration.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/plot_classification_probability.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/plot_classifier_comparison.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/plot_digits_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/plot_lda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/classification/plot_lda_qda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_adjusted_for_chance_measures.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_affinity_propagation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_agglomerative_clustering.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_agglomerative_clustering_metrics.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_birch_vs_minibatchkmeans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_cluster_comparison.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_cluster_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_color_quantization.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_dbscan.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_dict_face_patches.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_digits_agglomeration.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_digits_linkage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_face_compress.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_face_segmentation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_face_ward_segmentation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_feature_agglomeration_vs_univariate_selection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_kmeans_assumptions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_kmeans_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_kmeans_silhouette_analysis.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_kmeans_stability_low_dim_dense.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_mean_shift.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_mini_batch_kmeans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_segmentation_toy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cluster/plot_ward_structured_vs_unstructured.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_covariance_estimation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_lw_vs_oas.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_mahalanobis_distances.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_outlier_detection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_robust_vs_empirical_covariance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/covariance/plot_sparse_cov.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cross_decomposition/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/cross_decomposition/plot_compare_cross_decomposition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/datasets/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/datasets/plot_digits_last_image.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/datasets/plot_iris_dataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/datasets/plot_random_dataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/datasets/plot_random_multilabel_dataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_beta_divergence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_faces_decomposition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_ica_blind_source_separation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_ica_vs_pca.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_image_denoising.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_incremental_pca.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_kernel_pca.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_pca_3d.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_pca_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_pca_vs_fa_model_selection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_pca_vs_lda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/decomposition/plot_sparse_coding.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_adaboost_hastie_10_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_adaboost_multiclass.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_adaboost_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_adaboost_twoclass.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_bias_variance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_ensemble_oob.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_feature_transformation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_forest_importances.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_forest_importances_faces.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_forest_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_gradient_boosting_early_stopping.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_gradient_boosting_oob.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_gradient_boosting_quantile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_gradient_boosting_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_gradient_boosting_regularization.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_isolation_forest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_partial_dependence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_random_forest_embedding.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_random_forest_regression_multioutput.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_voting_decision_regions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/ensemble/plot_voting_probas.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/exercises/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/exercises/plot_cv_diabetes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/exercises/plot_cv_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/exercises/plot_digits_classification_exercise.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/exercises/plot_iris_exercise.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_f_test_vs_mi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_feature_selection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_feature_selection_pipeline.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_permutation_test_for_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_rfe_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_rfe_with_cross_validation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/feature_selection/plot_select_from_model_boston.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_compare_gpr_krr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpc.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpc_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpc_isoprobability.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpc_xor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpr_co2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpr_noisy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpr_noisy_targets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/gaussian_process/plot_gpr_prior_posterior.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/hetero_feature_union.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ard.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_bayesian_ridge.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_huber_vs_ridge.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_iris_logistic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_lasso_and_elasticnet.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_lasso_coordinate_descent_path.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_lasso_dense_vs_sparse_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_lasso_lars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_lasso_model_selection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_logistic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_logistic_l1_l2_sparsity.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_logistic_multinomial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_logistic_path.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_multi_task_lasso_support.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ols.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ols_3d.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ols_ridge_variance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_omp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_polynomial_interpolation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ransac.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ridge_coeffs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_ridge_path.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_robust_fit.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_comparison.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_loss_functions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_penalties.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_separating_hyperplane.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sgd_weighted_samples.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sparse_logistic_regression_20newsgroups.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_sparse_logistic_regression_mnist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/linear_model/plot_theilsen.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_compare_methods.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_lle_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_manifold_sphere.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_mds.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_swissroll.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/manifold/plot_t_sne_perplexity.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_concentration_prior.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_gmm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_gmm_covariances.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_gmm_pdf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_gmm_selection.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/mixture/plot_gmm_sin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/grid_search_text_feature_extraction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_confusion_matrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_grid_search_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_learning_curve.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_multi_metric_evaluation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_nested_cross_validation_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_precision_recall.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_randomized_search.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_roc.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_roc_crossval.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_train_error_vs_test_error.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_underfitting_overfitting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/model_selection/plot_validation_curve.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/multioutput/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/multioutput/plot_classifier_chain_yeast.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_digits_kde_sampling.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_kde_1d.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_lof.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_nearest_centroid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neighbors/plot_species_kde.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neural_networks/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neural_networks/plot_mlp_alpha.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neural_networks/plot_mlp_training_curves.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neural_networks/plot_mnist_filters.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/neural_networks/plot_rbm_logistic_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_anomaly_comparison.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_compare_reduction.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_cv_predict.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_digits_pipe.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_feature_stacker.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_isotonic_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_johnson_lindenstrauss_bound.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_kernel_approximation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_kernel_ridge_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_missing_values.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_multilabel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/plot_multioutput_face_completion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/plot_all_scaling.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/plot_function_transformer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/plot_power_transformer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/plot_scaling_importance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/preprocessing/plot_transformed_target.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/semi_supervised/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/semi_supervised/plot_label_propagation_digits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/semi_supervised/plot_label_propagation_digits_active_learning.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/semi_supervised/plot_label_propagation_structure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/semi_supervised/plot_label_propagation_versus_svm_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_custom_kernel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_oneclass.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_rbf_parameters.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_separating_hyperplane.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_separating_hyperplane_unbalanced.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_anova.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_kernels.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_margin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_nonlinear.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_svm_scale_c.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/svm/plot_weighted_samples.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/text/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/text/plot_document_classification_20newsgroups.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/text/plot_document_clustering.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/text/plot_hashing_vs_dict_vectorizer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/tree/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/tree/plot_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/tree/plot_tree_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/tree/plot_tree_regression_multioutput.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scikitlearn/examples/tree/plot_unveil_tree_structure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/1_Introduction/basic_operations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/1_Introduction/helloworld.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/kmeans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/logistic_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/nearest_neighbor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/random_forest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/autoencoder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/bidirectional_rnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/convolutional_network.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/convolutional_network_raw.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/dcgan.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/dynamic_rnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/gan.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/multilayer_perceptron.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/neural_network.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/neural_network_raw.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/recurrent_network.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/3_NeuralNetworks/variational_autoencoder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/4_Utils/save_restore_model.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/4_Utils/tensorboard_advanced.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/4_Utils/tensorboard_basic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/5_DataManagement/build_an_image_dataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/5_DataManagement/tensorflow_dataset_api.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/6_MultiGPU/multigpu_basics.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/examples/6_MultiGPU/multigpu_cnn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/0_Prerequisite/ml_introduction.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/1_Introduction/basic_operations.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/1_Introduction/helloworld.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/2_BasicModels/kmeans.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/2_BasicModels/linear_regression.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/2_BasicModels/logistic_regression.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/2_BasicModels/nearest_neighbor.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/2_BasicModels/random_forest.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/autoencoder.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/bidirectional_rnn.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/convolutional_network.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/dcgan.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/dynamic_rnn.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/gan.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/neural_network.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/neural_network_raw.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/recurrent_network.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/3_NeuralNetworks/variational_autoencoder.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/4_Utils/save_restore_model.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/4_Utils/tensorboard_advanced.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/4_Utils/tensorboard_basic.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/5_DataManagement/build_an_image_dataset.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/5_DataManagement/tensorflow_dataset_api.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/6_MultiGPU/multigpu_basics.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/notebooks/6_MultiGPU/multigpu_cnn.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_advanced_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_advanced_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_advanced_3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_advanced_4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_basic_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/resources/img/tensorboard_basic_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept01_defining_tensors.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept02_evaluating_ops.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept03_interactive_session.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept04_session_logging.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept05_variables.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept06_saving_variables.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept07_loading_variables.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept08_TensorBoard.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept09_queue.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/Concept10_queue_text.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/gradient.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/interactive_session.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/loading_vars.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/log_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/logging_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/moving_avg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/saving_vars.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/spikes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch02_basics/types.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch03_regression/Concept01_linear_regression.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch03_regression/Concept02_poly_regression.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch03_regression/Concept03_regularization.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch03_regression/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch03_regression/data_reader.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/Concept01_linear_regression_classification.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/Concept02_logistic.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/Concept03_logistic2d.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/Concept04_softmax.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/linear_1d.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/logistic_1d.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/logistic_2d.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch04_classification/softmax.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/Concept01_clustering.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/Concept02_segmentation.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/Concept03_som.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/TalkingMachinesPodcast.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_clustering.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/cough_1.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/cough_1.wav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/cough_2.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/cough_2.wav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_1.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_1.wav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_2.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_2.wav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_3.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_dataset/scream_3.wav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/audio_segmentation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/som.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch05_clustering/som_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/Concept01_forward.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/Concept02_hmm.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/forward.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch06_hmm/hmm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/Concept01_autoencoder.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/Concept02_autoencoder_with_imgs.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/Concept03_denoising.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/autoencoder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/autoencoder_batch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/checkpoint" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/denoiser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/denoising_autoencoder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/export_parameters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/main_imgs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch07_autoencoder/model.ckpt.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/Concept01_rl.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/prices.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/rl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch08_rl/stock_prices.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/Concept01_cifar.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/Concept02_convolution.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/Concept03_cnn.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/cifar_tools.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/cnn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/cnn_viz.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/conv_visuals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch09_cnn/using_cifar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/Concept01_timeseries_data.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/Concept02_rnn.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/Concept03_rnn_real_world.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/data_loader.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch10_rnn/simple_regression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/.ipynb_checkpoints/Concept01_multi_rnn-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/.ipynb_checkpoints/Concept02_embedding_lookup-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/Concept01_multi_rnn.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/Concept02_embedding_lookup.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/Concept03_seq2seq.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/data/process_input.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/data/words_input.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch11_seq2seq/data/words_output.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/Concept01_ranknet.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/Concept02_embedding.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/Concept03_image_ranking.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/imagenet_classes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/vgg16.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/AIStudy.iml" afterPath="$PROJECT_DIR$/.idea/AIStudy.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py" afterPath="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/notebooks/0_Prerequisite/ml_introduction.ipynb" afterPath="$PROJECT_DIR$/tensorflow/notebooks/0_Prerequisite/ml_introduction.ipynb" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/notebooks/1_Introduction/basic_operations.ipynb" afterPath="$PROJECT_DIR$/tensorflow/notebooks/1_Introduction/basic_operations.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -463,11 +134,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="597" />
-    <option name="y" value="24" />
-    <option name="width" value="1924" />
-    <option name="height" value="1056" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -485,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -497,7 +194,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -506,6 +203,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WorkSpace\PythonSpace\AIStudy\tensorflow\tensorflow-book" />
       <recent name="E:\space\python\AIStudy" />
     </key>
   </component>
@@ -520,6 +218,31 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow/examples/2_BasicModels" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIStudy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.linear_regression" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -538,24 +261,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="597" y="24" width="1924" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09862142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13244048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26523888" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -568,6 +291,69 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scikitlearn/demos/knndemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scikitlearn/examples/plot_feature_stacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="38" column="48" lean-forward="false" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/examples/imdb_bidirectional_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/notebooks/0_Prerequisite/ml_introduction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/notebooks/1_Introduction/basic_operations.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/develop/python/Lib/site-packages/h5py/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/examples/2_BasicModels/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#378#415#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-book/ch12_rank/vgg16.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
