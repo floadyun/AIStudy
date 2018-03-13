@@ -16,8 +16,8 @@ X = tf.placeholder("float")
 Y = tf.placeholder("float")
 
 def model(X, w):
-    return tf.add(tf.mul(w[1], tf.pow(X, 1)),
-                  tf.mul(w[0], tf.pow(X, 0)))
+    return tf.add(tf.matmul(w[1], tf.pow(X, 1)),
+                  tf.matmul(w[0], tf.pow(X, 0)))
 
 w = tf.Variable([0., 0.], name="parameters")
 y_model = model(X, w)
