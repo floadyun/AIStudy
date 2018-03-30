@@ -22,10 +22,10 @@ display_step = 1
 model_path = "/tmp/model.ckpt"
 
 # Network Parameters
-n_hidden_1 = 256 # 1st layer number of features
-n_hidden_2 = 256 # 2nd layer number of features
-n_input = 784 # MNIST data input (img shape: 28*28)
-n_classes = 10 # MNIST total classes (0-9 digits)
+n_hidden_1 = 256  # 1st layer number of features
+n_hidden_2 = 256  # 2nd layer number of features
+n_input = 784  # MNIST data input (img shape: 28*28)
+n_classes = 10  # MNIST total classes (0-9 digits)
 
 # tf Graph input
 x = tf.placeholder("float", [None, n_input])
@@ -33,7 +33,7 @@ y = tf.placeholder("float", [None, n_classes])
 
 
 # Create model
-def multilayer_perceptron(x, weights, biases):
+def multilayer_perceptron(x , weights, biases):
     # Hidden layer with RELU activation
     layer_1 = tf.add(tf.matmul(x, weights['h1']), biases['b1'])
     layer_1 = tf.nn.relu(layer_1)
